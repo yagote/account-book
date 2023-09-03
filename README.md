@@ -14,22 +14,26 @@
 
 
 ### 注册：http://127.0.0.1/reg
-![image](https://github.com/yagote/account-book/assets/84584426/37bcbfcf-e09c-4f69-aed7-4b60f288edf7)
+![image](https://github.com/yagote/account-book/assets/84584426/2e812224-5f4b-4e84-9d33-428abaff21a4)
+
 
 
 
 
 ### 登录：http://127.0.0.1/login
-![image](https://github.com/yagote/account-book/assets/84584426/23ceb88d-3ec9-451d-aeea-2e6911709d74)
+![image](https://github.com/yagote/account-book/assets/84584426/e2af580f-8bdb-4634-9c41-fa7b3a8f367d)
+
 
 
 
 
 ### 首页：http://127.0.0.1/account
-![image](https://github.com/yagote/account-book/assets/84584426/f883a289-2152-41fc-b2b1-7e26d34c1abb)
+![image](https://github.com/yagote/account-book/assets/84584426/1a16df7c-a835-424f-bf21-0346f464c342)
 
 
 
-### 添加账单
-  ![image](https://github.com/yagote/account-book/assets/84584426/ad8d9ed6-4f2f-4247-a66c-1cdf0d4e3fdc)
+
+### 添加账单:http://127.0.0.1/account/create
+![image](https://github.com/yagote/account-book/assets/84584426/5d844ca1-0040-4365-a841-8002ace7efa0)
+
 
