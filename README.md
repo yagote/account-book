@@ -1,5 +1,5 @@
 # account-book
-使用nodejs、EJS、express、MongoDB实现的简单记账本，包含注册，登录、退出，记账功能。
+使用nodejs、EJS、express、MongoDB实现的简单记账本，包含注册，登录、退出，记账功能。 
 
 ## 技术
 - node.js v18.17.1
